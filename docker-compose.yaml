@@ -7,7 +7,7 @@ services:
       dockerfile: Dockerfile
     container_name: translator_api
     ports:
-      - "3000:3000"
+      - "5000:5000"
 
   ui:
     build:
