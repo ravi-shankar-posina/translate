@@ -1,0 +1,294 @@
+[
+  {
+    "Language": "Afrikaans",
+    "ISO-639 code": "af"
+  },
+  {
+    "Language": "Albanian",
+    "ISO-639 code": "sq"
+  },
+  {
+    "Language": "Amharic",
+    "ISO-639 code": "am"
+  },
+  {
+    "Language": "Arabic",
+    "ISO-639 code": "ar"
+  },
+  {
+    "Language": "Armenian",
+    "ISO-639 code": "hy"
+  },
+  {
+    "Language": "Assamese",
+    "ISO-639 code": "as"
+  },
+  {
+    "Language": "Aymara",
+    "ISO-639 code": "ay"
+  },
+  {
+    "Language": "Azerbaijani",
+    "ISO-639 code": "az"
+  },
+  {
+    "Language": "Bambara",
+    "ISO-639 code": "bm"
+  },
+  {
+    "Language": "Basque",
+    "ISO-639 code": "eu"
+  },
+  {
+    "Language": "Belarusian",
+    "ISO-639 code": "be"
+  },
+  {
+    "Language": "Bengali",
+    "ISO-639 code": "bn"
+  },
+  {
+    "Language": "Bhojpuri",
+    "ISO-639 code": "bho"
+  },
+  {
+    "Language": "Bosnian",
+    "ISO-639 code": "bs"
+  },
+  {
+    "Language": "Bulgarian",
+    "ISO-639 code": "bg"
+  },
+  {
+    "Language": "Catalan",
+    "ISO-639 code": "ca"
+  },
+  {
+    "Language": "Cebuano",
+    "ISO-639 code": "ceb"
+  },
+  {
+    "Language": "Chinese (Simplified)",
+    "ISO-639 code": "zh-CN"
+  },
+  {
+    "Language": "Chinese (Traditional)",
+    "ISO-639 code": "zh-TW"
+  },
+  {
+    "Language": "Corsican",
+    "ISO-639 code": "co"
+  },
+  {
+    "Language": "Croatian",
+    "ISO-639 code": "hr"
+  },
+  {
+    "Language": "Czech",
+    "ISO-639 code": "cs"
+  },
+  {
+    "Language": "Danish",
+    "ISO-639 code": "da"
+  },
+  {
+    "Language": "Dhivehi",
+    "ISO-639 code": "dv"
+  },
+  {
+    "Language": "Dogri",
+    "ISO-639 code": "doi"
+  },
+  {
+    "Language": "Dutch",
+    "ISO-639 code": "nl"
+  },
+  {
+    "Language": "Esperanto",
+    "ISO-639 code": "eo"
+  },
+  {
+    "Language": "Estonian",
+    "ISO-639 code": "et"
+  },
+  {
+    "Language": "Ewe",
+    "ISO-639 code": "ee"
+  },
+  {
+    "Language": "Filipino (Tagalog)",
+    "ISO-639 code": "fil"
+  },
+  {
+    "Language": "Finnish",
+    "ISO-639 code": "fi"
+  },
+  {
+    "Language": "French",
+    "ISO-639 code": "fr"
+  },
+  {
+    "Language": "Frisian",
+    "ISO-639 code": "fy"
+  },
+  {
+    "Language": "Galician",
+    "ISO-639 code": "gl"
+  },
+  {
+    "Language": "Georgian",
+    "ISO-639 code": "ka"
+  },
+  {
+    "Language": "German",
+    "ISO-639 code": "de"
+  },
+  {
+    "Language": "Greek",
+    "ISO-639 code": "el"
+  },
+  {
+    "Language": "Guarani",
+    "ISO-639 code": "gn"
+  },
+  {
+    "Language": "Gujarati",
+    "ISO-639 code": "gu"
+  },
+  {
+    "Language": "Haitian Creole",
+    "ISO-639 code": "ht"
+  },
+  {
+    "Language": "Hausa",
+    "ISO-639 code": "ha"
+  },
+  {
+    "Language": "Hawaiian",
+    "ISO-639 code": "haw"
+  },
+  {
+    "Language": "Hebrew",
+    "ISO-639 code": "he"
+  },
+  {
+    "Language": "Hindi",
+    "ISO-639 code": "hi"
+  },
+  {
+    "Language": "Hmong",
+    "ISO-639 code": "hmn"
+  },
+  {
+    "Language": "Hungarian",
+    "ISO-639 code": "hu"
+  },
+  {
+    "Language": "Icelandic",
+    "ISO-639 code": "is"
+  },
+  {
+    "Language": "Igbo",
+    "ISO-639 code": "ig"
+  },
+  {
+    "Language": "Ilocano",
+    "ISO-639 code": "ilo"
+  },
+  {
+    "Language": "Indonesian",
+    "ISO-639 code": "id"
+  },
+  {
+    "Language": "Irish",
+    "ISO-639 code": "ga"
+  },
+  {
+    "Language": "Italian",
+    "ISO-639 code": "it"
+  },
+  {
+    "Language": "Japanese",
+    "ISO-639 code": "ja"
+  },
+  {
+    "Language": "Javanese",
+    "ISO-639 code": "jv"
+  },
+  {
+    "Language": "Kannada",
+    "ISO-639 code": "kn"
+  },
+  {
+    "Language": "Kazakh",
+    "ISO-639 code": "kk"
+  },
+  {
+    "Language": "Khmer",
+    "ISO-639 code": "km"
+  },
+  {
+    "Language": "Kinyarwanda",
+    "ISO-639 code": "rw"
+  },
+  {
+    "Language": "Konkani",
+    "ISO-639 code": "gom"
+  },
+  {
+    "Language": "Korean",
+    "ISO-639 code": "ko"
+  },
+  {
+    "Language": "Krio",
+    "ISO-639 code": "kri"
+  },
+  {
+    "Language": "Kurdish",
+    "ISO-639 code": "ku"
+  },
+  {
+    "Language": "Kurdish (Sorani)",
+    "ISO-639 code": "ckb"
+  },
+  {
+    "Language": "Kyrgyz",
+    "ISO-639 code": "ky"
+  },
+  {
+    "Language": "Lao",
+    "ISO-639 code": "lo"
+  },
+  {
+    "Language": "Latin",
+    "ISO-639 code": "la"
+  },
+  {
+    "Language": "Latvian",
+    "ISO-639 code": "lv"
+  },
+  {
+    "Language": "Lingala",
+    "ISO-639 code": "ln"
+  },
+  {
+    "Language": "Lithuanian",
+    "ISO-639 code": "lt"
+  },
+  {
+    "Language": "Luganda",
+    "ISO-639 code": "lg"
+  },
+  {
+    "Language": "Luxembourgish",
+    "ISO-639 code": "lb"
+  },
+  {
+    "Language": "Macedonian",
+    "ISO-639 code": "mk"
+  },
+  {
+    "Language": "Telugu",
+    "ISO-639 code": "te"
+  }
+]
