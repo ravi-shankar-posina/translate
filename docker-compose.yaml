@@ -14,12 +14,12 @@ services:
     build:
       context: ./api
     container_name: backend
-    expose:
+    ports:
       - 5000:5000
 
   frontend:
     build:
       context: ./ui
     container_name: frontend
-    expose:
+    ports:
       - 3000:80
