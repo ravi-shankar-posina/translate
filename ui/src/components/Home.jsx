@@ -3,15 +3,15 @@ import pdf from "../assets/pdf.png";
 
 const Home = () => {
   return (
-    <div className="bg-pink-200 flex flex-col justify-center items-center h-full p-6 rounded-2xl">
+    <div className="bg-red-200 flex flex-col justify-center items-center h-full p-6 rounded-2xl">
       <div className="bg-white  rounded-lg p-10 shadow-lg flex  items-center">
         <div>
-          <h1 className="text-pink-600 text-3xl font-extrabold mb-4">
-            Welcome to Your Translation Hub!
+          <h1 className="text-red-600 text-3xl font-extrabold mb-4">
+            Welcome to JnJ Translation Hub!
           </h1>
           <p className="text-gray-700 text-lg font-medium mb-6">
-            "Bridging languages with precision and ease. Your documents,
-            translated flawlessly."
+            Bridging languages with precision and ease. Your documents,
+            translated flawlessly.
           </p>
           <p className="text-gray-500 text-sm mb-8">
             Upload your documents, select your target language, and let our

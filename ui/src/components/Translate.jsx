@@ -124,11 +124,12 @@ const Translate = () => {
             </label>
           ) : (
             <div className="flex flex-col items-center w-full">
-              <iframe
-                src={uploadedFileURL}
+              <object
+                data={uploadedFileURL}
+                type="application/pdf"
                 title="Uploaded PDF"
                 className="w-full h-96 border border-gray-300 rounded-lg mb-4"
-              ></iframe>
+              ></object>
               <div className="flex items-center space-x-4">
                 <p className="text-center text-lg font-semibold">{pdfName}</p>
                 <button
@@ -159,11 +160,12 @@ const Translate = () => {
             </div>
           ) : (
             <div className="w-full h-full flex flex-col items-center">
-              <iframe
-                src={apiResponse}
+              <object
+                data={apiResponse}
+                type="application/pdf"
                 title="API Response PDF"
                 className="w-full h-full border border-gray-300 rounded-lg"
-              ></iframe>
+              ></object>
             </div>
           )}
         </div>

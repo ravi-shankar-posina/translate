@@ -1,294 +1,146 @@
 [
   {
-    "Language": "Afrikaans",
-    "ISO-639 code": "af"
-  },
-  {
-    "Language": "Albanian",
-    "ISO-639 code": "sq"
-  },
-  {
-    "Language": "Amharic",
-    "ISO-639 code": "am"
-  },
-  {
     "Language": "Arabic",
-    "ISO-639 code": "ar"
-  },
-  {
-    "Language": "Armenian",
-    "ISO-639 code": "hy"
-  },
-  {
-    "Language": "Assamese",
-    "ISO-639 code": "as"
-  },
-  {
-    "Language": "Aymara",
-    "ISO-639 code": "ay"
-  },
-  {
-    "Language": "Azerbaijani",
-    "ISO-639 code": "az"
-  },
-  {
-    "Language": "Bambara",
-    "ISO-639 code": "bm"
-  },
-  {
-    "Language": "Basque",
-    "ISO-639 code": "eu"
-  },
-  {
-    "Language": "Belarusian",
-    "ISO-639 code": "be"
-  },
-  {
-    "Language": "Bengali",
-    "ISO-639 code": "bn"
-  },
-  {
-    "Language": "Bhojpuri",
-    "ISO-639 code": "bho"
-  },
-  {
-    "Language": "Bosnian",
-    "ISO-639 code": "bs"
+    "ISO-639 code": "AR"
   },
   {
     "Language": "Bulgarian",
-    "ISO-639 code": "bg"
-  },
-  {
-    "Language": "Catalan",
-    "ISO-639 code": "ca"
-  },
-  {
-    "Language": "Cebuano",
-    "ISO-639 code": "ceb"
-  },
-  {
-    "Language": "Chinese (Simplified)",
-    "ISO-639 code": "zh-CN"
-  },
-  {
-    "Language": "Chinese (Traditional)",
-    "ISO-639 code": "zh-TW"
-  },
-  {
-    "Language": "Corsican",
-    "ISO-639 code": "co"
-  },
-  {
-    "Language": "Croatian",
-    "ISO-639 code": "hr"
+    "ISO-639 code": "BG"
   },
   {
     "Language": "Czech",
-    "ISO-639 code": "cs"
+    "ISO-639 code": "CS"
   },
   {
     "Language": "Danish",
-    "ISO-639 code": "da"
-  },
-  {
-    "Language": "Dhivehi",
-    "ISO-639 code": "dv"
-  },
-  {
-    "Language": "Dogri",
-    "ISO-639 code": "doi"
-  },
-  {
-    "Language": "Dutch",
-    "ISO-639 code": "nl"
-  },
-  {
-    "Language": "Esperanto",
-    "ISO-639 code": "eo"
-  },
-  {
-    "Language": "Estonian",
-    "ISO-639 code": "et"
-  },
-  {
-    "Language": "Ewe",
-    "ISO-639 code": "ee"
-  },
-  {
-    "Language": "Filipino (Tagalog)",
-    "ISO-639 code": "fil"
-  },
-  {
-    "Language": "Finnish",
-    "ISO-639 code": "fi"
-  },
-  {
-    "Language": "French",
-    "ISO-639 code": "fr"
-  },
-  {
-    "Language": "Frisian",
-    "ISO-639 code": "fy"
-  },
-  {
-    "Language": "Galician",
-    "ISO-639 code": "gl"
-  },
-  {
-    "Language": "Georgian",
-    "ISO-639 code": "ka"
+    "ISO-639 code": "DA"
   },
   {
     "Language": "German",
-    "ISO-639 code": "de"
+    "ISO-639 code": "DE"
   },
   {
     "Language": "Greek",
-    "ISO-639 code": "el"
+    "ISO-639 code": "EL"
   },
   {
-    "Language": "Guarani",
-    "ISO-639 code": "gn"
+    "Language": "English (unspecified variant for backward compatibility)",
+    "ISO-639 code": "EN"
   },
   {
-    "Language": "Gujarati",
-    "ISO-639 code": "gu"
+    "Language": "English (British)",
+    "ISO-639 code": "EN-GB"
   },
   {
-    "Language": "Haitian Creole",
-    "ISO-639 code": "ht"
+    "Language": "English (American)",
+    "ISO-639 code": "EN-US"
   },
   {
-    "Language": "Hausa",
-    "ISO-639 code": "ha"
+    "Language": "Spanish",
+    "ISO-639 code": "ES"
   },
   {
-    "Language": "Hawaiian",
-    "ISO-639 code": "haw"
+    "Language": "Estonian",
+    "ISO-639 code": "ET"
   },
   {
-    "Language": "Hebrew",
-    "ISO-639 code": "he"
+    "Language": "Finnish",
+    "ISO-639 code": "FI"
   },
   {
-    "Language": "Hindi",
-    "ISO-639 code": "hi"
-  },
-  {
-    "Language": "Hmong",
-    "ISO-639 code": "hmn"
+    "Language": "French",
+    "ISO-639 code": "FR"
   },
   {
     "Language": "Hungarian",
-    "ISO-639 code": "hu"
-  },
-  {
-    "Language": "Icelandic",
-    "ISO-639 code": "is"
-  },
-  {
-    "Language": "Igbo",
-    "ISO-639 code": "ig"
-  },
-  {
-    "Language": "Ilocano",
-    "ISO-639 code": "ilo"
+    "ISO-639 code": "HU"
   },
   {
     "Language": "Indonesian",
-    "ISO-639 code": "id"
-  },
-  {
-    "Language": "Irish",
-    "ISO-639 code": "ga"
+    "ISO-639 code": "ID"
   },
   {
     "Language": "Italian",
-    "ISO-639 code": "it"
+    "ISO-639 code": "IT"
   },
   {
     "Language": "Japanese",
-    "ISO-639 code": "ja"
-  },
-  {
-    "Language": "Javanese",
-    "ISO-639 code": "jv"
-  },
-  {
-    "Language": "Kannada",
-    "ISO-639 code": "kn"
-  },
-  {
-    "Language": "Kazakh",
-    "ISO-639 code": "kk"
-  },
-  {
-    "Language": "Khmer",
-    "ISO-639 code": "km"
-  },
-  {
-    "Language": "Kinyarwanda",
-    "ISO-639 code": "rw"
-  },
-  {
-    "Language": "Konkani",
-    "ISO-639 code": "gom"
+    "ISO-639 code": "JA"
   },
   {
     "Language": "Korean",
-    "ISO-639 code": "ko"
-  },
-  {
-    "Language": "Krio",
-    "ISO-639 code": "kri"
-  },
-  {
-    "Language": "Kurdish",
-    "ISO-639 code": "ku"
-  },
-  {
-    "Language": "Kurdish (Sorani)",
-    "ISO-639 code": "ckb"
-  },
-  {
-    "Language": "Kyrgyz",
-    "ISO-639 code": "ky"
-  },
-  {
-    "Language": "Lao",
-    "ISO-639 code": "lo"
-  },
-  {
-    "Language": "Latin",
-    "ISO-639 code": "la"
-  },
-  {
-    "Language": "Latvian",
-    "ISO-639 code": "lv"
-  },
-  {
-    "Language": "Lingala",
-    "ISO-639 code": "ln"
+    "ISO-639 code": "KO"
   },
   {
     "Language": "Lithuanian",
-    "ISO-639 code": "lt"
+    "ISO-639 code": "LT"
   },
   {
-    "Language": "Luganda",
-    "ISO-639 code": "lg"
+    "Language": "Latvian",
+    "ISO-639 code": "LV"
   },
   {
-    "Language": "Luxembourgish",
-    "ISO-639 code": "lb"
+    "Language": "Norwegian Bokmål",
+    "ISO-639 code": "NB"
   },
   {
-    "Language": "Macedonian",
-    "ISO-639 code": "mk"
+    "Language": "Dutch",
+    "ISO-639 code": "NL"
   },
   {
-    "Language": "Telugu",
-    "ISO-639 code": "te"
+    "Language": "Polish",
+    "ISO-639 code": "PL"
+  },
+  {
+    "Language": "Portuguese (unspecified variant for backward compatibility)",
+    "ISO-639 code": "PT"
+  },
+  {
+    "Language": "Portuguese (Brazilian)",
+    "ISO-639 code": "PT-BR"
+  },
+  {
+    "Language": "Portuguese (all Portuguese variants excluding Brazilian Portuguese)",
+    "ISO-639 code": "PT-PT"
+  },
+  {
+    "Language": "Romanian",
+    "ISO-639 code": "RO"
+  },
+  {
+    "Language": "Russian",
+    "ISO-639 code": "RU"
+  },
+  {
+    "Language": "Slovak",
+    "ISO-639 code": "SK"
+  },
+  {
+    "Language": "Slovenian",
+    "ISO-639 code": "SL"
+  },
+  {
+    "Language": "Swedish",
+    "ISO-639 code": "SV"
+  },
+  {
+    "Language": "Turkish",
+    "ISO-639 code": "TR"
+  },
+  {
+    "Language": "Ukrainian",
+    "ISO-639 code": "UK"
+  },
+  {
+    "Language": "Chinese (unspecified variant for backward compatibility)",
+    "ISO-639 code": "ZH"
+  },
+  {
+    "Language": "Chinese (simplified)",
+    "ISO-639 code": "ZH-HANS"
+  },
+  {
+    "Language": "Chinese (traditional)",
+    "ISO-639 code": "ZH-HANT"
   }
 ]
